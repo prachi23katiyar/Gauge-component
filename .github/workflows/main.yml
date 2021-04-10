@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
-          scope: 'prachi23katiyar'
+          scope: '@prachi23katiyar'
       - run: npm install
       - run: npm publish
         env:
