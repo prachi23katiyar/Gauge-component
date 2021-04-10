@@ -2,10 +2,6 @@
   "name": "Gauge-component",
   "version": "1.0.0",
   "description": "A Webpack + Babel + React Starter bolerplate ",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/prachi23katiyar/Gauge-component"
-  },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com/prachi23katiyar"
   },
