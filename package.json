@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/mlomboglia/webpack-react-starter"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/prachi23katiyar"
+  },
   "keywords": [
     "Autoprefixer",
     "PostCSS",
