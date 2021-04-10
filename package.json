@@ -1,9 +1,9 @@
 {
-  "name": "gaugecomponent",
+  "name": "@prachi23katiyar/gaugecomponent",
   "version": "1.0.0",
   "description": " ",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@prachi23katiyar"
+    "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "Autoprefixer",
